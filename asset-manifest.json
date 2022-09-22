@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/togo/static/css/main.e6c13ad2.css",
+    "main.js": "/togo/static/js/main.949e3693.js",
+    "static/media/girl-yellow.png": "/togo/static/media/girl-yellow.f5cafdc0ee8d092b83bc.png",
+    "index.html": "/togo/index.html",
+    "main.e6c13ad2.css.map": "/togo/static/css/main.e6c13ad2.css.map",
+    "main.949e3693.js.map": "/togo/static/js/main.949e3693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.949e3693.js"
+  ]
+}
